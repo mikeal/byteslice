@@ -8,7 +8,7 @@ var b = byteslice(['yes', 1])
 bytewise.decode( b.encode(['x']) )
 // ['yes', 1, 'x']
 
-bytewise.decode( b.encode(['x', ['y']]), )
+bytewise.decode( b.encode(['x', ['y']]) )
 // ['yes', 1, 'x', ['y']]
 
 b = b.concat('no')
