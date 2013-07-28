@@ -1,0 +1,27 @@
+{
+  "name": "byteslice",
+  "version": "0.0.0",
+  "description": "Simple way to concat and slice arrays through bytewise encoding and decoding.",
+  "main": "index.js",
+  "dependencies": {
+    "bytewise": "~0.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mikeal/byteslice"
+  },
+  "keywords": [
+    "bytewise",
+    "level",
+    "leveldb"
+  ],
+  "author": "Mikeal Rogers <mikeal.rogers@gmail.com>",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/mikeal/byteslice/issues"
+  }
+}
