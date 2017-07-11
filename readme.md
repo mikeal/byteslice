@@ -1,5 +1,7 @@
 ## byteslice
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/mikeal/byteslice.svg)](https://greenkeeper.io/)
+
 Simple way to concat and slice arrays through bytewise encoding and decoding.
 
 ```javascript
