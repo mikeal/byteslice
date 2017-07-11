@@ -4,7 +4,7 @@
   "description": "Simple way to concat and slice arrays through bytewise encoding and decoding.",
   "main": "index.js",
   "dependencies": {
-    "bytewise": "~0.5.0"
+    "bytewise": "~1.1.0"
   },
   "devDependencies": {},
   "scripts": {
